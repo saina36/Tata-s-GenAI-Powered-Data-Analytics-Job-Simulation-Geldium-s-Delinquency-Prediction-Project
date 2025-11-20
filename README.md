@@ -1,5 +1,4 @@
-# Tata-s-GenAI-Powered-Data-Analytics-Job-Simulation-Geldium-s-Delinquency-Prediction-Project
-# 📘 **Geldium Delinquency Prediction – Machine Learning Project**
+# 📘 **Geldium Delinquency Prediction – Machine Learning Project - Tata Forage**
 
 *A complete end-to-end credit-risk modeling pipeline*
 
@@ -236,6 +235,10 @@ Includes human-in-the-loop, fairness guardrails, and measurable KPIs.
 
 # 🏁 **Conclusion**
 
-This project demonstrates a complete, explainable, and business-ready credit risk pipeline—from feature engineering to model selection to responsible deployment strategy.
+The delinquency prediction model developed for Geldium provides a clear, interpretable, and data-driven foundation for early risk detection. Through systematic feature engineering, statistical validation (VIF, correlation, coefficient analysis), and rigorous model comparison, the Decision Tree Classifier emerged as the most reliable choice—balancing accuracy, stability, and explainability.
+
+While more complex models offered higher complexity, the Decision Tree delivered transparent rules, lower overfitting, and alignment with financial regulatory standards such as IFRS 9 and Basel II/III. The selected features—Loan_to_Tenure, Income, and Employment_Risk—not only demonstrated strong predictive capability but also provided actionable business insights for identifying high-risk customers.
+
+This project demonstrates how responsible AI can enhance collections strategy by enabling early, fair, and personalized interventions—ultimately reducing delinquency, improving customer experience, and increasing operational efficiency. With a solid foundation in place, Geldium can now extend this model into a scalable, agentic AI-powered collections system to automate outreach and continuously refine engagement strategies.
 
 
